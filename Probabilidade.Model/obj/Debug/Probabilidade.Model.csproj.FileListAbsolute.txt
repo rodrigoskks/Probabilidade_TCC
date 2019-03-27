@@ -1,0 +1,12 @@
+C:\Users\SilvaD18\source\repos\Probabilidade\Probabilidade.Model\bin\Debug\Probabilidade.Model.dll
+C:\Users\SilvaD18\source\repos\Probabilidade\Probabilidade.Model\bin\Debug\Probabilidade.Model.pdb
+C:\Users\SilvaD18\source\repos\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.csprojResolveAssemblyReference.cache
+C:\Users\SilvaD18\source\repos\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.csproj.CoreCompileInputs.cache
+C:\Users\SilvaD18\source\repos\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.dll
+C:\Users\SilvaD18\source\repos\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.pdb
+C:\Users\TopCode\Downloads\Probabilidades-20180328T141210Z-001\Probabilidades\Probabilidades\Probabilidade\Probabilidade.Model\bin\Debug\Probabilidade.Model.dll
+C:\Users\TopCode\Downloads\Probabilidades-20180328T141210Z-001\Probabilidades\Probabilidades\Probabilidade\Probabilidade.Model\bin\Debug\Probabilidade.Model.pdb
+C:\Users\TopCode\Downloads\Probabilidades-20180328T141210Z-001\Probabilidades\Probabilidades\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.csprojAssemblyReference.cache
+C:\Users\TopCode\Downloads\Probabilidades-20180328T141210Z-001\Probabilidades\Probabilidades\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.csproj.CoreCompileInputs.cache
+C:\Users\TopCode\Downloads\Probabilidades-20180328T141210Z-001\Probabilidades\Probabilidades\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.dll
+C:\Users\TopCode\Downloads\Probabilidades-20180328T141210Z-001\Probabilidades\Probabilidades\Probabilidade\Probabilidade.Model\obj\Debug\Probabilidade.Model.pdb
